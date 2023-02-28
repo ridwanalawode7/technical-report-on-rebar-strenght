@@ -1,1 +1,0 @@
-# technical-report-on-rebar-strenght
